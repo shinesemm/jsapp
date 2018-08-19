@@ -1,0 +1,15 @@
+.headtxt
+{
+    
+    background-color: #b18270;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+}
+body
+{
+    background-image: url('bg.jpg');
+}
+.height-80 {
+	max-height: 75vh;
+	overflow-y: auto;
+}
